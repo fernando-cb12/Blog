@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Entry 02 — Debugging | Camou's Blog</title>
+  </head>
+  <body>
+    <header>
+      <h1>Camou's Blog</h1>
+      <p>Entry 02</p>
+    </header>
+
+    <nav class="site-nav" aria-label="Site">
+      <a href="index.html">Home</a>
+      <a href="entry-2-debugging.html">Entry 02</a>
+    </nav>
+
+    <main>
+      <article>
+        <h2>Blog Entry 2: Week 2</h2>
+        <p>
+          Like I mentioned in my previous entry, my big project is to improve and
+          modernize an internal development tool used by my team. This week I
+          coordinated with my mentor to implement a new state machine for the
+          tool, which allows for a better logging and more efficient way to handle
+          the different states of the tool. we look for improvements area and
+          summarized all the states into lifecycles and refactored the application
+          client for this new state machine.
+        </p>
+        <p>
+          Beside of this, I also worked in the implementation of a new feature for
+          the tool, which allows to handle different settings and enviroments
+          until we found out a bug in the development, where my mentor wasn't able
+          to send requests to the backend, so we spent almost 3 days debugging the
+          problem, we had a call with senior engineers and couldn't find the
+          problem, we traced the problem to a specific low level function in a
+          package that was being used but the real issue was that the port was
+          being used by another process, but it wasn't shown in the terminal so it
+          was a bit weird, also nobody could reproduce his bug. This took some
+          time to find out but the good thing is that we implemented better
+          logging for future debugging.
+        </p>
+        <p>
+          This week I also participated in a social impact activity where we gave
+          86 backpacks to children in need, this is something that I particularly
+          do and enjoy a lot, so I was really happy to be part of this activity
+          and spend more time with my team doing different things.
+        </p>
+      </article>
+    </main>
+  </body>
+</html>
