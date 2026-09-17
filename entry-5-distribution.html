@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Entry 5 - Distribution</title>
+  </head>
+  <body>
+    <header>
+      <h1>Camou's Blog</h1>
+      <p>Entry 05</p>
+    </header>
+
+    <nav class="site-nav" aria-label="Site">
+      <a href="index.html">Home</a>
+      <a href="entry-2-debugging.html">Entry 02</a>
+      <a href="entry-3-events.html">Entry 03</a>
+      <a href="entry-4-first-merge.html">Entry 04</a>
+      <a href="entry-5-distribution.html">Entry 05</a>
+    </nav>
+
+    <main>
+      <article>
+        <h2>Blog Entry 5: Distribution</h2>
+        <p>
+          This week, I had the opportunity to work on distributing the tool I
+          have been developing. Since it is a test tool intended only for
+          development environments, I had to consider how to make the setup as
+          simple as possible. My first thought was to create a container image
+          and share it with the team, but I realized that this would make the
+          setup more complex for teammates who do not have a container engine.
+        </p>
+        <p>
+          When I was planning the project months ago, I considered sending
+          builds and packages of the app, but that approach would not work
+          without a proper local server. After reviewing my options with Codex
+          and discussing them with senior engineers, I decided to research a way
+          to distribute everything through a single executable without making
+          the setup more complex.
+        </p>
+        <p>
+          I spent some time researching and testing different approaches until I
+          found a library in the main framework I am using that could handle
+          this. I implemented and tested it, and it worked as expected in less
+          time than we had anticipated. I shared the result with my mentor, who
+          was very happy with it, and my manager will be able to review it when
+          he returns from vacation.
+        </p>
+      </article>
+    </main>
+  </body>
+</html>
