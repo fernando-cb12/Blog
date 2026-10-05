@@ -82,5 +82,30 @@
       "This entry will be very short since we had a holiday and half day this week, so I didn't have too much work time. I started the week with a meeting with my team where I showed the advancements I made for the distribution of the tool I've been working on. They gave me some feedback and suggested an approach that could enhance the completion of the task.",
       "That way, I learned what an Uber JAR is and started researching how to implement that in my project. I tried different ways to do it and after it worked, I automated the process with scripts for a more efficient setup."
     ]
+  },
+  {
+    "number": 7,
+    "title": "Demo",
+    "summary": "Showing the new features and improvements.",
+    "href": "entry-7-demo.html",
+    "pageTitle": "Entry 07 — Demo | Camou's Blog",
+    "heading": "Blog Entry 7: Demo",
+    "content": [
+      "Since the previous week was too short, this week I had the chance of showing all the advancements we had made to my manager and the teammate who was in charge while he was out. I invited them to a meeting and they were so happy with the advancements that they suggested to show it to the people who would be using the tool, so I catched up with my mentor and prepared a demo for the team.",
+      "The demo was a success, I know the perfectly know the tool and how to use it, so part of my pitch was the solution to common issues they had, also mentioned improvements and refactors we designed and implemented. They were very happy and satisfied with the work we had done, and they suggested to continue improving the tool and adding some missing features, my manager also was happy with the work and one of the engineers would check if everything was ready to share the draft version of the tool with the users.",
+      "Additionaly to the demo, I had the opportunity to conduct mock interviews with forge foundation, where I had the chance to interview undergraduate and graduate students from different universities, this was exciting and fun, I could share my experience and knowledge with them, and I hope my tips helped them to improve for their next interviews."
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Advanced Features",
+    "summary": "Exploring and implementing advanced functionalities.",
+    "href": "entry-8-advanced-features.html",
+    "pageTitle": "Entry 08 — Advanced Features | Camou's Blog",
+    "heading": "Blog Entry 8: Advanced Features",
+    "content": [
+      "This week started filling the gaps of the current phase of the tool, but also had the chance to be an Oracle Intern Ambassador in ITESM Guadalajara Campus, where I had the opportunity to talk about my experience as an intern and share my insights and tips for the recruitment process in Oracle, the students were very curious and interested in the program, and I hope my talk helped them to understand better the process and what they can expect from it.",
+      "In the middle of the week, we started a new phase, where I consider that the real challenge starts, I had to study some documentation and understand some behaviours inside the legacy code that didn't make too much sense at first, but after a meeting with my mentor, I started planning the implementation of some more complex features, I'm happy to work in this even though I feel blocked sometimes, but my teammates are very supportive and they are confident that I'm doing a good job."
+    ]
   }
 ]
