@@ -1,0 +1,86 @@
+[
+  {
+    "number": 1,
+    "title": "Onboarding",
+    "summary": "First month, team intro, and getting set up.",
+    "href": "index.html#onboarding",
+    "content": [
+      "In this first entry, I'll talk about my first month rather than just this week, since things have been a bit calm so far. I also want to use this opportunity to introduce what this internship is about.",
+      "I started my internship in July, where I had the opportunity to meet people from all around the country, and even some from other countries, which was really nice. During my first day, I also met my recruiter and mentor.",
+      "The next day I received my laptop and started the onboarding process, which was a bit overwhelming at first, but I got through it quickly. Soon after, I was already meeting with my team and getting to know how we would be working together remotely.",
+      "By the end of my first week, I had completed all the required onboarding courses, and at the beginning of the second week, I had the application running locally with the help of my mentor. Once everything was set up, I continued exploring the project and met with my manager to discuss the work I would be contributing to. The project involves improving and modernizing an internal development tool used by my team.",
+      "My team is <a href=\"https://docs.oracle.com/en/industries/retail/retail-eftlink/23.0/retrn/c_feature_summary.htm#FeatureSummary-92BDD055\">EFTLink</a> (Electronic Funds Transfer), and I will link the public documentation because I want to make sure I only share information that is publicly available.",
+      "During the following weeks, I worked on a proof of concept to explore a new approach for the project. After receiving positive feedback from my team, I continued developing the idea and contributing to the main project. Since then, I have been working on designing, refactoring, and improving different aspects of the application.",
+      "This week, we are discussing the next steps for the project and how we can continue improving it. I'm looking forward to seeing how it evolves!"
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Debugging week",
+    "summary": "State machines, a stubborn port bug, and backpacks.",
+    "href": "entry-2-debugging.html",
+    "pageTitle": "Entry 02 — Debugging | Camou's Blog",
+    "heading": "Blog Entry 2: Week 2",
+    "content": [
+      "Like I mentioned in my previous entry, my big project is to improve and modernize an internal development tool used by my team. This week I coordinated with my mentor to implement a new state machine for the tool, which allows for a better logging and more efficient way to handle the different states of the tool. we look for improvements area and summarized all the states into lifecycles and refactored the application client for this new state machine.",
+      "Beside of this, I also worked in the implementation of a new feature for the tool, which allows to handle different settings and enviroments until we found out a bug in the development, where my mentor wasn't able to send requests to the backend, so we spent almost 3 days debugging the problem, we had a call with senior engineers and couldn't find the problem, we traced the problem to a specific low level function in a package that was being used but the real issue was that the port was being used by another process, but it wasn't shown in the terminal so it was a bit weird, also nobody could reproduce his bug. This took some time to find out but the good thing is that we implemented better logging for future debugging.",
+      "This week I also participated in a social impact activity where we gave 86 backpacks to children in need, this is something that I particularly do and enjoy a lot, so I was really happy to be part of this activity and spend more time with my team doing different things."
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Events",
+    "summary": "Masterclass and social networking.",
+    "href": "entry-3-events.html",
+    "pageTitle": "Entry 03 — Events | Camou's Blog",
+    "heading": "Blog Entry 3: Week 3",
+    "content": [
+      "This week was very short but it was interesting, I won't talk about the work in my project because it was mostly planning and refactoring some minnor stuff, but I will talk about the events that I attended this week.",
+      "The first event of the week was a masterclass about the Retail Global Industries Unit, here we learned about how the retail department is structured and operates. I learned about the different products, teams and how we work together to provide solutions and improve our existing products, beside of that, I learned about different technologies that we use in our products and how we use them to provide better solutions for our customers, also, I noticed where our products are used and how they are used in the real world everyday.",
+      "The second event of the week was a social networking event, where we had the opportunity to meet and talk with different people from different departments and teams, this was a very interesting event because I learned about different products and technologies that I didn't know about, also, I learned about different career paths and how people got to where they are today, my favorite part from this event is that it was in a go-karts track, so I had the opportunity to race for the first time and was a very fun experience, saddly I lost in the final race but I had a lot of fun and got closer to my colleagues."
+    ],
+    "embed": {
+      "src": "https://www.linkedin.com/embed/feed/update/urn:li:share:7498877507736109056?collapsed=1",
+      "height": 669,
+      "title": "Publicación integrada"
+    }
+  },
+  {
+    "number": 4,
+    "title": "First merge",
+    "summary": "Joining the team and looking ahead to phase 1.",
+    "href": "entry-4-first-merge.html",
+    "pageTitle": "Entry 04 — First Merge | Camou's Blog",
+    "heading": "Blog Entry 4: First Merge",
+    "content": [
+      "This week I had the opportunity to integrate the tool that I have been working on with the rest of the team. This means that it passed QA, so we are on the right path and have to keep working on it.",
+      "After that, we had a meeting with the team to discuss the next steps and what they expect from what we call phase 1.",
+      "Besides the work from this week, I had the opportunity to attend an event from a scholarship named MEXXICO Siglo XXI. We had multiple conferences and talks about different topics, with celebrities and important people from different areas. My favorite part was a talk from football players Guillermo Ochoa, Javier Aguirre, and Rafael Marquez. I identified with some of their stories and experiences in a certain way."
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Distribution",
+    "summary": "Packaging the tool for the development team.",
+    "href": "entry-5-distribution.html",
+    "pageTitle": "Entry 05 — Distribution | Camou's Blog",
+    "heading": "Blog Entry 5: Distribution",
+    "content": [
+      "This week, I had the opportunity to work on distributing the tool I have been developing. Since it is a test tool intended only for development environments, I had to consider how to make the setup as simple as possible. My first thought was to create a container image and share it with the team, but I realized that this would make the setup more complex for teammates who do not have a container engine.",
+      "When I was planning the project months ago, I considered sending builds and packages of the app, but that approach would not work without a proper local server. After reviewing my options with Codex and discussing them with senior engineers, I decided to research a way to distribute everything through a single executable without making the setup more complex.",
+      "I spent some time researching and testing different approaches until I found a library in the main framework I am using that could handle this. I implemented and tested it, and it worked as expected in less time than we had anticipated. I shared the result with my mentor, who was very happy with it, and my manager will be able to review it when he returns from vacation."
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Enhancement",
+    "summary": "Improving the delivery flow and automating the setup.",
+    "href": "entry-6-enhancement.html",
+    "pageTitle": "Entry 06 — Enhancement | Camou's Blog",
+    "heading": "Blog Entry 6: Enhancement",
+    "content": [
+      "This entry will be very short since we had a holiday and half day this week, so I didn't have too much work time. I started the week with a meeting with my team where I showed the advancements I made for the distribution of the tool I've been working on. They gave me some feedback and suggested an approach that could enhance the completion of the task.",
+      "That way, I learned what an Uber JAR is and started researching how to implement that in my project. I tried different ways to do it and after it worked, I automated the process with scripts for a more efficient setup."
+    ]
+  }
+]
