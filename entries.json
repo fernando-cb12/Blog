@@ -107,5 +107,38 @@
       "This week started filling the gaps of the current phase of the tool, but also had the chance to be an Oracle Intern Ambassador in ITESM Guadalajara Campus, where I had the opportunity to talk about my experience as an intern and share my insights and tips for the recruitment process in Oracle, the students were very curious and interested in the program, and I hope my talk helped them to understand better the process and what they can expect from it.",
       "In the middle of the week, we started a new phase, where I consider that the real challenge starts, I had to study some documentation and understand some behaviours inside the legacy code that didn't make too much sense at first, but after a meeting with my mentor, I started planning the implementation of some more complex features, I'm happy to work in this even though I feel blocked sometimes, but my teammates are very supportive and they are confident that I'm doing a good job."
     ]
+  },
+  {
+    "number": 9,
+    "title": "Out of the Box",
+    "summary": "Getting out of the box and exploring new ideas.",
+    "href": "entry-9-out-of-the-box.html",
+    "pageTitle": "Entry 09 — Out of the Box | Camou's Blog",
+    "heading": "Blog Entry 9: Out of the Box",
+    "content": [
+      "This week I had the oportunity to start with advanced features for my project, I had to understand and mirror some legacy code and improve it, at the beginning I din't know exactly what I was doing, so I had to read lots of docs and notice that something wasn't correctly desinged, I spoke to my manager about this and he agreed to refactor a small field that shouldn't exist.",
+      "That meant more work for my mentor but we both discussed and figured out a way to implement the feature I was working without depending on what we were refactoring.",
+      "Most of that week was pure development so by other hand, we had an intern event where we attended a basketball game from the local team, it was very fun and also meet again with other interns is always a good time.",
+      "Something I always forget I've been doing is that I'm mentoring two students from different universities in Mexico, I tried working with them in a project but they aren't very active, so I decided to help them with their resumes and give them some tips for their interviews, I hope they find it useful and they can get a good opportunity."
+    ],
+    "embed": {
+      "src": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7513780408560545792?compact=1",
+      "height": 669,
+      "title": "Publicación integrada"
+    }
+  },
+  {
+    "number": 10,
+    "title": "Seniors doing seniors stuff",
+    "summary": "Learning from senior engineers and exploring my project.",
+    "href": "entry-10-seniors-being-seniors.html",
+    "pageTitle": "Entry 10 — Seniors doing seniors stuff | Camou's Blog",
+    "heading": "Blog Entry 10: Seniors doing seniors stuff",
+    "content": [
+      "We are in the final steps of the project, advanced features are almost done and we are just filling gaps and improving existing features.",
+      "My mentor is back at the product team, so I'm back on my own, but I'm taking this time and oportunity to keep learning about what does actually my team do, and how the product is used in the real world, I reached out to another coworkers that use my product and asked them how they use it and what is the origin of it (shotout to Javi who is now a senior engineer).",
+      "Also I took some time to ask my manager about my future in the team and what could I improve to be a more valuable member.",
+      "I chose this title because most of the team is doing big potato stuff and I'm just watching and hearing their thoughts and ideas, also because I feel like the memes I've seen are true when they have big discussions about small things."
+    ]
   }
 ]
