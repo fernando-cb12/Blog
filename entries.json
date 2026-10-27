@@ -140,5 +140,19 @@
       "Also I took some time to ask my manager about my future in the team and what could I improve to be a more valuable member.",
       "I chose this title because most of the team is doing big potato stuff and I'm just watching and hearing their thoughts and ideas, also because I feel like the memes I've seen are true when they have big discussions about small things."
     ]
+  },
+  {
+    "number": 11,
+    "title": "Detailing",
+    "summary": "Focusing on the details and improving the user experience.",
+    "href": "entry-11-detailing.html",
+    "pageTitle": "Entry 11 — Detailing | Camou's Blog",
+    "heading": "Blog Entry 11: Detailing",
+    "content": [
+      "We are in the final laps of the project, my manager and my team likes it and they are happy with the results, now we are looking for gaps and improvements or behaviors that could be improved, personally I'd like to modify the UI and improve the user experience, but my team is happy with it so its not a priority.",
+      "Beside of that we started the winter football tournament, where we have a team with other interns and we are playing against other teams from different departments, it's funny but it's truthly a challenge, we are getting along and I hope to win soon.",
+      "<img src=\"images/interns-milan.jpeg\" alt=\"Interns football team\" />",
+      "At the end of the week, we started a new proposal to enhance an existing feature, I hope that the team likes it and we can implement it in the future."
+    ]
   }
 ]
