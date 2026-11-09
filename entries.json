@@ -154,5 +154,35 @@
       "<img src=\"images/interns-milan.jpeg\" alt=\"Interns football team\" />",
       "At the end of the week, we started a new proposal to enhance an existing feature, I hope that the team likes it and we can implement it in the future."
     ]
+  },
+  {
+    "number": 12,
+    "title": "A surprising demo",
+    "summary": "Presenting the latest features to the QA team, with an unexpected interruption.",
+    "href": "entry-12-demo.html",
+    "pageTitle": "Entry 12 — A surprising demo | Camou's Blog",
+    "heading": "Blog Entry 12: Week 12",
+    "content": [
+      "This week we had a demo with the QA team, where we presented the last features from my project. It was a good opportunity to show the progress we had made and walk them through the new functionality.",
+      "During the demo, a glass exploded next to me unexpectedly and interrupted the presentation. I was a bit unfocused when I continued, but I managed to finish presenting and everything went well. Even with that unexpected moment, the team got to see the features and the demo was a success."
+    ]
+  },
+  {
+    "number": 13,
+    "title": "I don't have more title ideas",
+    "summary": "Enhancing the UI, supporting multiple instances, and visiting ITESM Guadalajara.",
+    "href": "entry-13-multiple-instances.html",
+    "pageTitle": "Entry 13 — I don't have more title ideas | Camou's Blog",
+    "heading": "Blog Entry 13: Week 13",
+    "content": [
+      "Now I focused on enhancing the UI and designing a new way to run multiple instances of the application using a single script and configuration file. This should make it easier for users but maybe more complex.",
+      "We also had a visit from ITESM Campus Guadalajara where I participated in a tour and a panel, which was a nice opportunity to share and have fun (also free chilaquiles!!!).",
+      "I also started preparing my intern showcase presentation, where I will be able to share the project and what I have learned during the internship."
+    ],
+    "embed": {
+      "src": "https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7523880439837589505?collapsed=1",
+      "height": 627,
+      "title": "Publicación integrada"
+    }
   }
 ]
